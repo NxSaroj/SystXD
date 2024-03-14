@@ -2,9 +2,10 @@
   import Button from "./lib/Button.svelte";
   import Title from "./lib/Title.svelte";
   import Border from "./lib/Border.svelte";
+  import Navbar from "./lib/Navbar.svelte";
   import "./app.css";
 </script>
-
+<Navbar />
 <Title />
 <Button />
 <h1
