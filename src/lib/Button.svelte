@@ -1,6 +1,6 @@
 <div class="flex items-center justify-center mt-10">
   <a
-    href="https://github.com/NxSaroj/"
+    href="https://github.com/SystXD/"
     class="px-5 py-2.5 relative rounded group overflow-hidden font-medium bg-black border text-red-600 inline-block"
   >
     <span
